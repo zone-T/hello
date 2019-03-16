@@ -18,6 +18,9 @@ class App extends Component {
           <button onClick={hello}>
             hello
           </button>
+          <button onClick={hello}>
+            hello
+          </button>
           <a
             className="App-link"
             href="https://reactjs.org"
