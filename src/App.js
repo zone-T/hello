@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Hello1 <code>src/App.js</code> and save to reload.
+            Hello2 <code>src/App.js</code> and save to reload.
           </p>
           <button onClick={hello}>
             hello
